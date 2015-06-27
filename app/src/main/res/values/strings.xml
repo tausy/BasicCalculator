@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Calculator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_text">Enter two numbers</string>
+    <string name="btnPlus">+</string>
+    <string name="btnSubtract">-</string>
+    <string name="btnMultiply">*</string>
+    <string name="btnDivide">/</string>
+    <string name="btnClear">CLR</string>
+    <string name="first_number">First number..</string>
+    <string name="second_number">Second number..</string>
+    <string name="text_result">Result</string>
+    <string name="result">00.00</string>
+</resources>
